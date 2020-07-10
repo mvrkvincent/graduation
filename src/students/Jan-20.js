@@ -44,7 +44,7 @@ const students = [
   {
     "id": 4717,
     "name": "Joshua Cachola",
-    "imageUrl": "",
+    "imageUrl": "https://lutheryamaguchii.files.wordpress.com/2010/02/4258984607_4ed8c15293.jpg",
     "occup": "student"
   },
   {
@@ -56,7 +56,7 @@ const students = [
   {
     "id": 4801,
     "name": "Lizzie Friedman",
-    "imageUrl": "",
+    "imageUrl": "https://lutheryamaguchii.files.wordpress.com/2010/02/4258984607_4ed8c15293.jpg",
     "occup": "student"
   },
   {
@@ -68,13 +68,13 @@ const students = [
   {
     "id": 4746,
     "name": "Mark Mansolino",
-    "imageUrl": "",
+    "imageUrl": "https://lutheryamaguchii.files.wordpress.com/2010/02/4258984607_4ed8c15293.jpg",
     "occup": "student"
   },
   {
     "id": 4732,
     "name": "Monia Techini",
-    "imageUrl": "",
+    "imageUrl": "https://lutheryamaguchii.files.wordpress.com/2010/02/4258984607_4ed8c15293.jpg",
     "occup": "student"
   },
   {
