@@ -12,6 +12,18 @@ const students = [
     "occup": "student"
   },
   {
+    "id": 4742,
+    "name": "Alfredo Quiroga",
+    "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D35AQEqP5U6W-i24A/profile-framedphoto-shrink_400_400/0?e=1594494000&v=beta&t=nfBsWc1yOF8X53R7iqqAjPFaDVDB-751IY1ZJPJ9Ggk",
+    "occup": "student"
+  },
+  {
+    "id": 4742,
+    "name": "Andras Szikszai",
+    "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHHq1zRd1rf0w/profile-displayphoto-shrink_400_400/0?e=1599696000&v=beta&t=B1lohkzLjlmIk4L-VF9bLA1ci4o6CQ2U2b1UWYY7WI0",
+    "occup": "student"
+  },
+  {
     "id": 4733,
     "name": "Brandon Tsui",
     "imageUrl": "https://avatars2.githubusercontent.com/u/60237156?s=460&u=5e57f521c315ed6badfacd7ab8659543001b4032&v=4",
@@ -33,6 +45,12 @@ const students = [
     "id": 4726,
     "name": "Ian Magenta",
     "imageUrl": "https://avatars0.githubusercontent.com/u/59981318?s=460&u=497c7d5ebe39d992358d51af1ebf50185d9d8f2d&v=4",
+    "occup": "student"
+  },
+  {
+    "id": 4726,
+    "name": "James Ballard",
+    "imageUrl": "https://avatars2.githubusercontent.com/u/60041628?s=460&u=99c9fe9c1e76e64ade117a4451740b02c391b1c3&v=4",
     "occup": "student"
   },
   {
