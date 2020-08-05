@@ -22,25 +22,25 @@ class Ceremony {
 
         this.interval = setInterval(() => {
             this.ctx.drawImage(this.stage, 20, 50, 850, 300);
-            this.ctx.drawImage(this.audienceChairs, 20, 349, 850, 70)
-            this.ctx.drawImage(this.audienceChairs, 20, 349, 850, 130)
+            this.ctx.drawImage(this.audienceChairs, 20, 349, 850, 70);
+            this.ctx.drawImage(this.audienceChairs, 20, 349, 850, 130);
             this.ctx.drawImage(this.potatSpriteSheet,
                 waitingSprite[0], waitingSprite[1],
                 spriteSize[0], spriteSize[1],
                 80, 245,
                 // spriteSize[0], spriteSize[1])
-                80, 80)
+                80, 80);
                 // clearInterval(this.interval)
-        },100)
+        },100);
     }
 
     nextStudentMoves(button) {
-        button.disabled = true
-        this.graduates[this.currentStudent].moveAcrossScreen(this, button)
-        this.currentStudent += 1
+        button.disabled = true;
+        this.graduates[this.currentStudent].moveAcrossScreen(this, button);
+        this.currentStudent += 1;
     }
 
 
 }
 
-export default Ceremony
+export default Ceremony;
