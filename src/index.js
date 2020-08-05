@@ -20,13 +20,13 @@ document.addEventListener("DOMContentLoaded", () => {
     let mid = Math.floor(graduates.length/2);
     ol2.start = mid + 1;
 
-    for (let i = 0; i < mid;i++) {
+    for (let i = 0; i < mid; i++) {
         let listItem = document.createElement("li");
         listItem.textContent = graduates[i].name;
         ol1.appendChild(listItem);
     }
 
-    for (let i = mid; i < graduates.length;i++) {
+    for (let i = mid; i < graduates.length; i++) {
         let listItem = document.createElement("li");
         listItem.textContent = graduates[i].name;
         ol2.appendChild(listItem);
