@@ -18,7 +18,7 @@ class Ceremony {
 
     constructStage() {
         let waitingSprite = [750, 0];
-        let spriteSize = [375, 500]
+        let spriteSize = [375, 500];
 
         this.interval = setInterval(() => {
             this.ctx.drawImage(this.stage, 20, 50, 850, 300);
