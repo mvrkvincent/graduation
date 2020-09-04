@@ -12,6 +12,10 @@ const students = [
     "imageUrl": "https://avatars2.githubusercontent.com/u/56603706?s=460&u=8b22a4000cdee104507776125e7fea8264c4df7a&v=4",
   },
   {
+    "name": "Cole Rutledge",
+    "imageUrl": "https://avatars2.githubusercontent.com/u/7410513?s=460&u=93c2e70847ffa4ae915ec7f1b38a08782bc5a9d7&v=4",
+  },
+  {
     "name": "Kristen Chauncey",
     "imageUrl": "https://avatars0.githubusercontent.com/u/61163244?s=460&u=3967fbfd80409c2d3e8748cf7afecc7fadc54c21&v=4",
   },
@@ -26,6 +30,10 @@ const students = [
   {
     "name": "Lora Rusinouskaya",
     "imageUrl": "https://avatars1.githubusercontent.com/u/25575320?s=460&u=5168c2925bb58c2d78ca85ba267e095c16afbcad&v=4",
+  },
+  {
+    "name": "Marco Serrano",
+    "imageUrl": "https://avatars1.githubusercontent.com/u/61336936?s=460&u=94a255a42cf234611104f24d26e2b10939b57b5c&v=4",
   },
   {
     "name": "Chris Tran",
