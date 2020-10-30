@@ -24,6 +24,10 @@ const students = [
     "imageUrl": "https://avatars1.githubusercontent.com/u/64868310?s=460&u=fc3b016a7eef337312d7cbf2c6672c5abef3a2e8&v=4",
   },
   {
+    "name": "Jerel Smith",
+    "imageUrl": "https://avatars1.githubusercontent.com/u/65048179?s=460&u=0b29245b6c53157191583a6f2c46b59568ea63da&v=4",
+  },
+  {
     "name": "Tadeo Garcia",
     "imageUrl": "https://avatars3.githubusercontent.com/u/65257152?s=460&u=0e48e7130857fc93d0ab7600b7c37e9eeb303857&v=4",
   },
